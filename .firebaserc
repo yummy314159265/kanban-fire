@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "kanbanfire-bcc31"
+  },
+  "targets": {
+    "kanbanfire-bcc31": {
+      "hosting": {
+        "kanban-fire": [
+          "kanbanfire-bcc31"
+        ]
+      }
+    }
+  }
+}
